@@ -16,6 +16,4 @@ Welcome to my profile! I'm a Software Engineer, currently specialising on Web De
 > I was introduced to programming when I was 14 y.o. I was in junior high school and my teacher teaches us about HTML and CSS. Then, I also create a blog about random teenage chit-chat, and I wonder if I can decorate it because blogger templates are boring. I am so happy to have my blog theme customized, and different from those generic template. Since then, I love to custom and learn new HTML and CSS syntaxes. The interest grow and grow, I learn PHP, MySQL, and then decided to take Computer Science as my major in University. So that's the start of my adventure to the world of 0 and 1 💻
 
 ***
-
-<img src="https://miro.medium.com/max/1400/1*sKtpXBhyQDa9wtOw_Lu2JA.jpeg"/>
   
