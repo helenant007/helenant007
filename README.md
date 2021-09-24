@@ -7,7 +7,7 @@ Welcome to my profile! I'm a Software Engineer, currently specialising on Web De
 ##### 📫 FAQ: 
 
  🌱 *What's your current activities daily?*
-> I'm currently developing and maintaining every shop page you see at [***Tokopedia***](https://www.tokopedia.com), a unicorn e-commerce start-up from Indonesia. [Read more about my story working in Tokopedia.](https://medium.com/@helenanatanael/an-impression-my-first-year-as-a-software-engineer-in-tokopedia-d2d4dff9a7ac) 🏙️
+> I'm currently developing and maintaining web pages at [***Tiket.com***](https://www.tiket.com), a tech start-up company from Indonesia, specialising in booking and ticketing service. 🏙️
 
 🌱 What language that you use?
 > I'm familiar with Javascript the most :)
