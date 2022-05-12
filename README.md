@@ -1,6 +1,7 @@
 
 # Hi, I'm Helen 👩🏻‍💻👋
 [![Linkedin Badge](https://img.shields.io/badge/-Helena%20Natanael-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helenant/)](https://www.linkedin.com/in/helenant/) [![Medium Badge](https://img.shields.io/badge/-@helenanatanael-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@helenanatanael)](https://medium.com/@helenanatanael)
+[![wakatime](https://wakatime.com/badge/user/591eff37-5539-4b24-9021-bf1cabb8d0e3.svg)](https://wakatime.com/)
 
 Welcome to my profile! I'm a Software Engineer, currently specialising on Web Development. I was born and raised in western Jakarta, Indonesia. As a nocturnal person, I usually code at night, and not to mention I'm the type of friend that you'd love to talk to, about anything at 2AM, hahaha 🦉
 
