@@ -2,8 +2,9 @@
 # Hi, I'm Helena 👩🏻‍💻👋
 [![Medium Badge](https://img.shields.io/badge/-@helenanatanael-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@helenanatanael)](https://medium.com/@helenanatanael)
 [![wakatime](https://wakatime.com/badge/user/591eff37-5539-4b24-9021-bf1cabb8d0e3.svg)](https://wakatime.com/)
+[![Stack Overflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/4958496?style=flat&logo=stackoverflow&logoColor=white&label=Stack%20Overflow&labelColor=000000&color=F48024)](https://stackoverflow.com/users/4958496/helen)
 
-🌐 [My Personal Site](https://tix-helena-natanael.github.io)
+# 🌐 [Say hi, book a talk, or see what I’ve been building](https://tix-helena-natanael.github.io) 👈
 
 Welcome to my profile! I’m a Senior Software Engineer focused on building fast, reliable web applications — with a strong interest in performance, scalability, and real-world impact.
 
