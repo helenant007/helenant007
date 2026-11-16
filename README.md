@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@helenanatanael-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@helenanatanael)](https://medium.com/@helenanatanael)
 [![wakatime](https://wakatime.com/badge/user/591eff37-5539-4b24-9021-bf1cabb8d0e3.svg)](https://wakatime.com/)
 
-🌐 [My Personal Site](tix-helena-natanael.github.io)
+🌐 [My Personal Site](https://tix-helena-natanael.github.io)
 
 Welcome to my profile! I’m a Senior Software Engineer focused on building fast, reliable web applications — with a strong interest in performance, scalability, and real-world impact.
 
